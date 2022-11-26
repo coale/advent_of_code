@@ -32,7 +32,7 @@ def total_paper_calc(int_lists):
     total_square_feet += wrap_calculator(dimensions) + smallest_side_area(dimensions)
   return total_square_feet
 
-with open('input.txt') as input:
+with open('inputs/input_day01.txt') as input:
   areas_list = input.readlines()
 
 list_of_dimensions = str_to_int(areas_list)
