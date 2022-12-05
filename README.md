@@ -10,3 +10,4 @@ My solutions to the Advent of Code quizzes
 |-----|-------|--------|
 | Day 01|[Calorie Counting](https://adventofcode.com/2022/day/1)| :heavy_check_mark: |
 | Day 02|[]() | |
+| Day 03|[Rucksack Reorganization](https://adventofcode.com/2022/day/3) | |
