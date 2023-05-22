@@ -1,5 +1,5 @@
 # Advent of Code
-My solutions to the Advent of Code quizzes.
+My solutions to the Advent of Code quizzes, every quiz has two parts.
 
 |2022 |Puzzle | Status |
 |-----|-------|--------|
