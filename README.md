@@ -12,4 +12,5 @@ My solutions to the Advent of Code quizzes, every quiz has two parts.
 |-----|-------|--------|
 | Day 01|[Not Quite Lisp](https://adventofcode.com/2015/day/1)| :heavy_check_mark: :heavy_check_mark:|
 | Day 02|[I Was Told There Would Be No Math](https://adventofcode.com/2015/day/2) | :heavy_check_mark: :heavy_check_mark: |
-| Day 03|[]() | |
+| Day 03|[Perfectly Spherical Houses in a Vacuum](https://adventofcode.com/2015/day/3) | |
+| Day 04|[]() | |
